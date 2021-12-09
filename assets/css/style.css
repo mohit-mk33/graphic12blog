@@ -1668,16 +1668,16 @@
     @media screen and (max-width: 575.98px){
         
         .frontd{
-            padding: 0px 35px 5px 35px;
+            padding: 5px 35px 5px 35px;
             margin-bottom: 5px;
-            height: 312px;
+            height: 266px;
         }
 
         .uiuxd{
-            padding: 25px 20px 5px 20px;
+            padding: 5px 35px 5px 35px;
         }
         .websd{
-          padding: 5px 20px 5px 20px;
+          padding: 5px 35px 5px 35px;
 
         }
         .web3title{
@@ -1697,7 +1697,7 @@
             padding-top: 530px;
         }
         .factorstitle{
-            font-size: 27px;
+            font-size: 26px;
             margin-top: -500px;
             margin-bottom: 11px;
             text-align: left;
@@ -1755,7 +1755,7 @@
 
         }
         .websd{
-            height: 317px;
+            height: 334px;
 
         }
         .table th, td{
@@ -1764,6 +1764,7 @@
         }
         .other-title{
             font-size: 19px;
+            padding-top: 40px !important;
         }
         .career-scope-title{
             margin-top: -49px;
@@ -1775,6 +1776,18 @@
             font-size: 25px;
             text-align: center;
         }
+        .table-1{
+            margin-top: 27px;
+            margin-bottom: -5rem;
+        }
+        .table-2{
+            margin-top: 27px;
+            margin-bottom: 1rem;
+        }
+        .area-of-employe{
+            text-align: center !important;
+        }
+
 
 
     }
